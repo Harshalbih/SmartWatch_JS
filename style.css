@@ -118,7 +118,6 @@ header .logo img {
 }
 .main-one button:hover {
   background-image: linear-gradient(to right, #000074, #0075c9);
-  border: 3px solid #544115;
   color: black;
 }
 .main-one .underline {
