@@ -9,7 +9,7 @@ $(document).ready(function() {
     $('img')
         .parent()
         .zoom({
-            magnify: 2,
+            magnify: 4,
             target: $('.zoomeImg').get(0)
         });
 });
